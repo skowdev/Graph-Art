@@ -97,4 +97,4 @@ if(msg.content == prefix + 'cercle'){
 }
 });
 
-client.login('ODIwOTMzODgzOTUxNTc5MTc3.YE8YQg.UpXZzbjVLQ49okIZIRReLtI3jC4');
+client.login('YOUR TOKEN HERE');
